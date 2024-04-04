@@ -7,7 +7,7 @@ const Footer = ({ className }: { className?: string }) => {
 
       <ul className="flex flex-col gap-1">
         {sources.map((source) => (
-          <li className="underline" id={source.link}>
+          <li className="underline" key={source.link}>
             <a href={source.link} rel="noopener noreferrer">
               {source.title}
             </a>
