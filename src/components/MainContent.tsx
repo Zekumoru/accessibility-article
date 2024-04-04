@@ -79,7 +79,10 @@ const MainContent = ({ className }: { className?: string }) => {
             </a>
           </h3>
 
-          <img src="assets/narrator-window.png" alt="Finestra di Narrator" />
+          <img
+            src="accessibility-article/assets/narrator-window.png"
+            alt="Finestra di Narrator"
+          />
 
           <p>
             <b>
@@ -117,7 +120,7 @@ const MainContent = ({ className }: { className?: string }) => {
           </h3>
 
           <img
-            src="assets/apple-front-page.png"
+            src="accessibility-article/assets/apple-front-page.png"
             alt="Selezione menu nella pagina di Apple"
           />
 
@@ -164,7 +167,7 @@ const MainContent = ({ className }: { className?: string }) => {
           </h3>
 
           <img
-            src="assets/whatsapp-message-box.jpeg"
+            src="accessibility-article/assets/whatsapp-message-box.jpeg"
             alt="Casella di messaggio di WhatsApp che dice di scrivere a"
           />
 
