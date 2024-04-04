@@ -22,6 +22,14 @@ const Footer = ({ className }: { className?: string }) => {
         </a>
         .
       </p>
+      <p>
+        <a
+          href="https://www.flaticon.com/free-icons/website"
+          rel="noopener noreferrer"
+        >
+          Website icons created by Uniconlabs - Flaticon
+        </a>
+      </p>
     </footer>
   );
 };
