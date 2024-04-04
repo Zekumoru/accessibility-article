@@ -78,6 +78,9 @@ const MainContent = ({ className }: { className?: string }) => {
               Narrator
             </a>
           </h3>
+
+          <img src="assets/narrator-window.png" alt="Finestra di Narrator" />
+
           <p>
             <b>
               <a
@@ -112,6 +115,12 @@ const MainContent = ({ className }: { className?: string }) => {
               Apple (Sito web)
             </a>
           </h3>
+
+          <img
+            src="assets/apple-front-page.png"
+            alt="Selezione menu nella pagina di Apple"
+          />
+
           <p>
             Il{' '}
             <b>
@@ -153,6 +162,12 @@ const MainContent = ({ className }: { className?: string }) => {
               WhatsApp (versione Desktop)
             </a>
           </h3>
+
+          <img
+            src="assets/whatsapp-message-box.jpeg"
+            alt="Casella di messaggio di WhatsApp che dice di scrivere a"
+          />
+
           <p>
             <b>
               <a href="https://www.whatsapp.com/" rel="noopener noreferrer">
